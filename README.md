@@ -35,7 +35,21 @@ The data is available under: [https://zenodo.org/records/13354132](https://zenod
 # Citations
 
 When using or referencing to the `ConfRank` project please cite:
-- **tbd**
+
+```
+@article{ConfRank24,
+author = {H{\"o}lzer, Christian and Oerder, Rick and Grimme, Stefan and Hamaekers, Jan},
+title = {ConfRank: Improving GFN-FF Conformer Ranking with Pairwise Training},
+journal = {Journal of Chemical Information and Modeling},
+volume = {64},
+number = {23},
+pages = {8909-8925},
+year = {2024},
+doi = {10.1021/acs.jcim.4c01524},
+note ={PMID: 39565928},
+URL = {https://doi.org/10.1021/acs.jcim.4c01524},
+eprint = {https://doi.org/10.1021/acs.jcim.4c01524}}
+```
   
 
 # License
